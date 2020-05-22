@@ -1,6 +1,6 @@
 # Vue Todo
 
-A Todo App with with authenticated user accounts built with VueJS
+A todo app with authenticated user accounts built with VueJS
 
 ## Project setup
 ```
